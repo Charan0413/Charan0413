@@ -42,7 +42,6 @@
 - 💻 Passionate about Full-Stack Development and AI Applications
 - 🚀 Currently building scalable MERN applications
 - ☁️ Learning Docker, Kubernetes and Cloud Native Development
-- 📚 Preparing for Software Engineering placements
 
 ---
 
