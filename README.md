@@ -64,3 +64,126 @@ Currently preparing for Software Engineering placements by strengthening my skil
 - 📚 Currently mastering DSA & System Design
 
 ---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" />
+</p>
+
+</div>
+
+---
+
+# 🤖 AI & LLM Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Prompt Engineering | ⭐⭐⭐⭐☆ | Designing effective prompts for Large Language Models |
+| LLM Fundamentals | ⭐⭐⭐⭐☆ | Understanding transformer-based AI systems |
+| AI Integration | ⭐⭐⭐☆☆ | Integrating AI APIs into full-stack applications |
+| Full Stack Development | ⭐⭐⭐⭐☆ | Developing scalable MERN applications |
+| Cloud Native Development | ⭐⭐⭐☆☆ | Docker, Kubernetes & containerized deployments |
+
+---
+
+# 📊 Engineering Snapshot
+
+<div align="center">
+
+| Category | Details |
+|------------|---------|
+| 🎓 Degree | B.Tech – Computer Science & Cybersecurity |
+| 💻 Focus | Software Engineering |
+| 🚀 Primary Stack | MERN Stack |
+| 🤖 Interests | Artificial Intelligence & LLM Applications |
+| ☁️ Cloud | Docker • Kubernetes |
+| 📚 Currently Learning | DSA • System Design • Cloud Native Development |
+| 🎯 Career Goal | Software Engineer building scalable products |
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+```text
+💡 Idea
+      │
+      ▼
+📝 Planning
+      │
+      ▼
+💻 Development
+      │
+      ▼
+🧪 Testing
+      │
+      ▼
+🐳 Docker
+      │
+      ▼
+☸ Kubernetes
+      │
+      ▼
+🚀 Deployment
+```
+
+---
+
+# 🌟 Core Competencies
+
+<div align="center">
+
+| Software Engineering | Web Development | Cloud | AI |
+|----------------------|-----------------|-------|----|
+| REST APIs | React.js | Docker | Prompt Engineering |
+| Backend Development | Node.js | Kubernetes | LLM Fundamentals |
+| Clean Code | Express.js | GitHub | AI Integration |
+| Problem Solving | MongoDB | Git | Scalable Applications |
+
+</div>
+
+---
+
+# 💼 Professional Philosophy
+
+> **"Great software is built through continuous learning, clean architecture, scalable design, and solving real-world problems."**
+
+---
