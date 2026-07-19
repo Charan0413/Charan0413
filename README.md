@@ -405,3 +405,145 @@ Worked on industry-oriented MERN Stack projects focusing on building responsive 
 ```
 
 ---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/charan0413/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charan0413&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan0413&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Charan0413&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charan0413&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan0413&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **After creating your GitHub Actions workflow, replace this with your generated snake SVG:**
+
+```text
+https://raw.githubusercontent.com/Charan0413/Charan0413/output/github-contribution-grid-snake.svg
+```
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced MERN Stack
+  - Data Structures & Algorithms
+  - System Design
+  - Kubernetes
+  - Artificial Intelligence
+
+Building:
+  - AI Portfolio Assistant
+  - MERN E-Commerce Platform
+  - Kubernetes Auto-Scaling Project
+
+Exploring:
+  - Cloud Native Applications
+  - Open Source
+  - Backend Architecture
+
+Open To:
+  - Software Engineering Internships
+  - Full Stack Development
+  - AI Application Development
+```
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:charanyadav417@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sricharan-gavati-197948258">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Charan0413">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/charan0413/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile!
+
+*"Building scalable software, solving real-world problems, and continuously learning one commit at a time."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:2563EB&height=120&section=footer"/>
+
+</div>
