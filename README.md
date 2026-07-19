@@ -1,31 +1,36 @@
 <div align="center">
 
-# Hi 👋, I'm Gavati Sricharan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=220&section=header&text=Gavati%20Sricharan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Software Engineer • MERN Stack Developer • AI Application Developer
+<h3>Software Engineer • MERN Stack Developer • AI Application Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Learning+Cloud+Native+Technologies;AI+Application+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Cloud+Native+Learner;AI+Application+Developer"/>
 
-<p>
+<br>
+
 <a href="https://github.com/Charan0413">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sricharan-gavati-197948258">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:charanyadav417@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/charan0413/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Charan0413&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/Charan0413?style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/Charan0413?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
@@ -135,18 +140,27 @@
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-<a href="mailto:charanyadav417@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/sricharan-gavati-197948258">LinkedIn</a> •
-<a href="https://leetcode.com/u/charan0413/">LeetCode</a> •
-<a href="https://github.com/Charan0413">GitHub</a>
-</p>
-
----
+## 🤝 Connect With Me
 
 <div align="center">
+
+<a href="mailto:charanyadav417@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sricharan-gavati-197948258">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Charan0413">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/charan0413/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ⭐ Thanks for visiting my profile!
 
