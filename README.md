@@ -87,7 +87,6 @@
 - Horizontal Pod Autoscaler
 - Real-time monitoring dashboard
 
-🔗 Repository: **Coming Soon**
 
 ---
 
@@ -98,7 +97,6 @@
 - Shopping Cart
 - Admin Dashboard
 
-🔗 Repository: **Coming Soon**
 
 ---
 
